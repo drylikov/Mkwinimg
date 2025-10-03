@@ -1,5 +1,4 @@
-
-# mkwinimg
+# Mkwinimg
 
 This creates a **bootable** Windows Installer device for booting on UEFI systems.
 
