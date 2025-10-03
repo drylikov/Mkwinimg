@@ -75,6 +75,8 @@ To apply it to a device (`/dev/sdb` here):
 dd if=win10.img of=/dev/sdb bs=1M status=progress oflag=sync
 ```
 
+
+
 ## Disclaimer
 
 This will **not** work with BIOS/Legacy systems.
