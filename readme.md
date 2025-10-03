@@ -28,6 +28,8 @@ On Arch Linux you can install all these with:
 pacman -Sy --needed zsh p7zip ntfs-3g parted dosfstools gptfdisk gawk
 ```
 
+
+
 ## Usage
 
 ```
